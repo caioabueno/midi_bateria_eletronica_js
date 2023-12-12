@@ -1,17 +1,19 @@
-# Sobre o projeto
+# Bateria eletrônica midi web
+*Este é um projeto do curso da plataforma de ensino **[Alura](http:alura.com.br)***
 
-Esse é um projeto do curso livre da alura "crie páginas dinamicas com javascript".  
-Consiste em uma bateria musical digital que reproduz sons ao clicar ou ao pressionar algumas teclas.
+---
+## Projeto
+O programa consiste em um layout midi de bateria eletrônica que reproduz sons ao clique ou pressionar de certos botões do teclado.
 
 ![texto alternativo](https://github.com/caioabueno/js_p_paginas_dinamicas/blob/main/images/visaogeral.jpg)
 
 Nesse curso alguns recursos da linguagem foram abordados, como:  
-* Seleção de elemetos via queryselector;  
-* Utilização de funções nativas do JavaScript;  
-* Estrutura de loop, condicional e funções;  
-* Eventos;  
-* Template String;
-* Função anônima;
+* Seleção de elemetos via queryselector
+* Utilização de funções nativas do JavaScript
+* Estrutura de loop, condicional e funções
+* Eventos
+* Template String
+* Função anônima
 * Manipulação de elementos no DOM
 ---
 ## Mais a respeito dos recursos

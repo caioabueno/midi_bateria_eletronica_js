@@ -1,6 +1,5 @@
 # Bateria eletrônica midi web
 
----
 ## Projeto
 O programa consiste em um layout midi de bateria eletrônica que reproduz sons ao clique ou pressionar de certos botões do teclado.
 

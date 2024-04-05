@@ -1,5 +1,4 @@
 # Bateria eletrônica midi web
-*Este é um projeto do curso da plataforma de ensino **[Alura](http:alura.com.br)***
 
 ---
 ## Projeto
@@ -39,3 +38,5 @@ Explorou-se a interação do teclado com o site, permitindo que as teclas 'Enter
 ### 6. Melhorias na Função tocaSom e Experiência do Usuário
 Realizou-se uma melhoria na função tocaSom, adicionando validações para evitar erros ao passar elementos inválidos ou inexistentes.
 Também destacou-se a importância de alterar a aparência dos botões ao serem pressionados via teclado para uma experiência de usuário mais consistente.
+
+*Este é um projeto do curso da plataforma de ensino **[Alura](http:alura.com.br)***
